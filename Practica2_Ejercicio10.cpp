@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	int a;
-	cout<<"Ingrese el tamaño de la palabra que ingresara: ";
+	cout<<"Ingrese el tamaÃ±o de la palabra que ingresara: ";
 	cin>>a;
 	char p[a]={};
 	cout<<"Ingrese una palabra: ";
